@@ -1,2 +1,2 @@
 # SCT_DS_1
-Virtual Internship Project at skillcraft technology
+Virtual Internship Project for skillcraft technology
